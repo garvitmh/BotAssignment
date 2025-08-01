@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="start"
+    android:padding="4dp">
+
+    <TextView
+        android:id="@+id/textViewMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:padding="10dp"
+        android:background="@drawable/bot_message_bubble"
+        android:textColor="@color/botMessageTextColor"
+        android:textSize="16sp"
+        android:maxWidth="280dp"
+        tools:text="I am doing great! How can I help you?"
+        android:layout_gravity="start"/>
+
+</LinearLayout>

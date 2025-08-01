@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+
+        <color name="start_main_screen_gradient_color">#CA84DC</color>
+
+    <color name="material_dynamic_tertiary80">#FFD8E4</color>
+
+        <color name="cardBackgroundColor">#FFFFFFFF</color>
+    <color name="curvyBackground_color">#CCFFFFFF</color>
+    <color name="start_chat_gradient_color">#FFF8FCFF</color>
+    <color name="end_chat_gradient_color">#FFF0F8FF</color>
+    <color name="textColorPrimary">#1A202C</color>
+    <color name="textColorSecondary">#4A5568</color>
+    <color name="textColorCardContent">#333333</color>
+    <color name="textColorBottomBar">#070303</color>
+    <color name="userMessageBubbleColor">#FFCCEEFF</color>
+    <color name="userMessageTextColor">#000000</color>
+    <color name="botMessageBubbleColor">#F5F5F5</color>
+    <color name="botMessageTextColor">#000000</color>
+    <color name="end_main_screen_gradient_color">#FFFFFF</color>
+    <color name="glassCard_color">#1AFFFFFF</color>
+
+</resources>
+
+
